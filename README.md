@@ -41,4 +41,5 @@ This project scrapes and analyzes data from Mars websites, focusing on news and 
      - Plot the results as a bar chart.
    - **Lowest/Highest Pressure Months:**
      - Sort the average pressure values.
-     - Plot the sorted values as a bar chart.
+     - Plot the sorted values as a bar chart
+
